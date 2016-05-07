@@ -46,5 +46,5 @@ layout: default
 ## **Other Links**:
 
 * My CV 
-* My brother Tony Cai 
+* My brother Tony Cai [linked phrase](http://example.com)
 * NSF FRG Workshop on High Dimensional Data 
