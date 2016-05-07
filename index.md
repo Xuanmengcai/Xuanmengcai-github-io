@@ -2,10 +2,7 @@
 layout: default
 ---
 
-body
-{
-background: lightblue:
-}
+<span style="color: green"> Some green text </span>
 
 ![Tianxi Cai](TianxiSF-Small.jpg)
 
