@@ -50,6 +50,6 @@ E-mail: tcai@hsph.harvard.edu
 
 ## **Other Links**:
 
-* [My CV](http://www.hsph.harvard.edu/tcai/CV-TCai.pdf)
+* [My CV](CV-TCai.pdf)
 * [My brother Tony Cai](http://www-stat.wharton.upenn.edu/~tcai/)
 * [NSF FRG Workshop on High Dimensional Data](http://people.hsph.harvard.edu/~linli/workshop/index.html) 
