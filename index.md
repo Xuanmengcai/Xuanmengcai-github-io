@@ -4,8 +4,8 @@ layout: default
 
 ![Tianxi Cai](TianxiSF-Small.jpg)
 
-Department of Biostatistics, Harvard University
-Phone: (617)432-4923; Fax: (617)432-5619
+Department of Biostatistics, Harvard University  
+Phone: (617)432-4923; Fax: (617)432-5619  
 E-mail: tcai@hsph.harvard.edu
 
 ## **Education**:
