@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Tianxi Cai](TianxiSF-Small.jpg)
+![Tianxi Cai](TianxiSFSmall.jpg)
 
 
 ## **Education**:
