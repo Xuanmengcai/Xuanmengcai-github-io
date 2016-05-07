@@ -2,6 +2,11 @@
 layout: default
 ---
 
+body
+{
+background: #E0E0E0:
+}
+
 ![Tianxi Cai](TianxiSF-Small.jpg)
 
 Department of Biostatistics, Harvard University  
