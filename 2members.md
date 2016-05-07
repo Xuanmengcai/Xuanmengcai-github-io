@@ -4,12 +4,24 @@ title: Members
 permalink: /members/
 ---
 
-This is my personal homepage. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [google.com](http://google.com/)
+## **PhD Students**
+* Chan, Stephanie (Current)
+* Chakrabortty, Abhishek (Current)
+* Cheng, David (Current)
+* Goodman, Matthew (Current)
+* Gronsbell, Jessica (Current)
+* Zheng, Evelyn (Current)
+* Agniel, Denis (Graduated in 2015)
+* Neykov, Matey (Graduated in 2015)
+* SHen, Yuanyuan Graduated in 2015)
+* Dai, Wei (Graduated in 2013)
+* Sinnott, Jennifer (Graduated in 2012)
+* Parast, Latla (Graduated in 2012)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## **Postdocs**
+* Hejblum, Boris (Current)
+* Pourab, Roy (Current)
+* Yang, Ming (Current)
+* Yu, Sheng (2012-2015)
+* Li, Junlong (2012-2014)
+* Zhou, Qian (2009-2012)
