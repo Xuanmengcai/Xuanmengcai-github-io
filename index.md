@@ -46,5 +46,5 @@ layout: default
 ## **Other Links**:
 
 * My CV 
-* My brother Tony Cai [linked phrase](http://example.com)
+* My brother Tony Cai [My brother Tony Cai](http://www-stat.wharton.upenn.edu/~tcai/)
 * NSF FRG Workshop on High Dimensional Data 
