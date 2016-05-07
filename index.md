@@ -4,7 +4,7 @@ layout: default
 
 body
 {
-background: #E0E0E0:
+background: lightblue:
 }
 
 ![Tianxi Cai](TianxiSF-Small.jpg)
