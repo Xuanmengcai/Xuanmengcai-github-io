@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Home
+permalink: /home/
 ---
 
 This is my personal homepage. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [google.com](http://google.com/)
