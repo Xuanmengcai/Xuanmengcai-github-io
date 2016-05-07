@@ -4,12 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-This is my personal homepage. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [google.com](http://google.com/)
+Dr. Cai’s current research interests are mainly in the area of biomarker evaluation; model selection and validation; prediction methods; personalized medicine in disease diagnosis, prognosis and treatment; statistical inference with high dimensional data; and survival analysis.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+In addition to her methdological research, Dr. Cai also collaborates with the I2B2 (Informatics for Integrating Biology and the Bedside) center on developing a scalable informatics framework that will bridge clinical research data and the vast data banks arising from basic science research in order to better understand the genetic bases of complex diseases.
